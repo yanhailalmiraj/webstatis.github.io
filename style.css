@@ -1,0 +1,29 @@
+body {
+    background-color: #000000;
+}
+
+.navbar-expand-lg {
+    background-color: red;
+}
+
+
+h1 {
+    color: white;
+  }
+  
+
+  p {
+    color: white;
+  }
+
+
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  footer    {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+  }
